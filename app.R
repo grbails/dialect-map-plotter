@@ -285,8 +285,7 @@ server <- function(input, output) {
   
     output$pickFeature <- renderUI({
     feature_list <- data() %>%
-      select(-c('point_id', 'sex', 'ethnicity', 'age', 'age.group', 'dob', 
-                'longitude', 'latitude', 'pc.district', 'pc.area', 'locauth', 'region')) %>%
+      select(bread:last_col()) %>%
       colnames()
     
     selectInput("varSel", "2. Select variable to plot:",
