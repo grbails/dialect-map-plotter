@@ -1,0 +1,101 @@
+sex,age,age.group,dob,longitude,latitude,pc.district,pc.area,region,bread,clothing,meal,foot.cut,for.more,one.gone,book.spook,fur.bear,pour.poor,eight.ate,spa.spar,give.it.me,things.what
+male,28,21 to 40,1988,-2.310609898714405,53.52520741840182,M27,M,North West,"bap, barm","pants, trousers",tea,rhyme,don't rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,b
+female,82,> 80,1932,-1.4786113984772675,53.31089546002194,S18,S,East Midlands,bap,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,c
+male,24,21 to 40,1995,-1.3240071411269592,51.07517866800035,SO22,SO,South East,bap,trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,different,different,b,e
+male,19,< 20,1995,-1.4938787876532758,53.791351473016135,LS9,LS,Yorkshire and The Humber,bread cake,pants,"dinner, tea",don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,c,d
+female,21,21 to 40,1992,-1.5339417449731827,53.47353017232402,S35,S,Yorkshire and The Humber,bread cake,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,d
+male,19,< 20,1995,-1.2852650171698805,54.0234300809117,YO26,YO,Yorkshire and The Humber,bun,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,d,b
+female,20,< 20,1997,-2.928988653591783,53.4555194974526,L9,L,North West,barm,pants,tea,rhyme,rhyme,don't rhyme,don't rhyme,rhyme,same,same,same,c,b
+female,50,41 to 60,1964,-1.070551117536282,53.00555727313388,NG4,NG,East Midlands,cob,other (bottoms),dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,a
+female,19,< 20,2000,-3.2009995932980893,51.47539243905029,CF11,CF,Wales,cob,trousers,tea,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,b,d
+female,18,< 20,1999,-3.8699433490264057,50.34625510207542,PL21,PL,South West,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,d,b
+female,23,21 to 40,1990,-1.5441780793293114,53.34697010726164,S11,S,Yorkshire and The Humber,"bun, roll",trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,c
+female,20,< 20,1994,0.7880316241970783,51.1698566582264,TN27,TN,South East,"bap, bun, roll",trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,d,c
+male,21,21 to 40,1992,-2.7694414598730903,51.42816344475541,BS48,BS,South West,bap,trousers,dinner,don't rhyme,rhyme,don't rhyme,rhyme,don't rhyme,same,same,same,b,c
+male,44,41 to 60,1970,-0.9695930783418855,54.56813921550178,TS12,TS,North East,roll,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,c,c
+male,20,< 20,1996,-2.6039356302895986,53.446301855912694,WA12,WA,North West,"barm, roll",pants,tea,rhyme,rhyme,rhyme,don't rhyme,rhyme,same,same,same,a,a
+male,20,< 20,1993,-1.5534098026289982,54.54038456842853,DL3,DL,North East,bun,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,different,same,e,c
+male,20,< 20,1998,-2.411615862092438,50.709683620450924,DT1,DT,South West,roll,"pants, trousers",dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,d,b
+male,26,21 to 40,1988,-1.3213219787396142,54.57772085776251,TS19,TS,North East,bun,trousers,tea,don't rhyme,rhyme,rhyme,rhyme,don't rhyme,different,same,same,c,b
+male,19,< 20,1995,-3.4163990316715154,54.48992984505691,CA22,CA,North West,roll,trousers,"dinner, tea",rhyme,rhyme,rhyme,rhyme,don't rhyme,same,same,same,b,b
+male,52,41 to 60,1965,-2.532902436493039,53.51825277594502,WN7,WN,North West,barm,trousers,tea,rhyme,don't rhyme,rhyme,don't rhyme,rhyme,same,different,same,a,b
+male,63,61 to 80,1951,-1.5975968171452495,54.98888080537284,NE2,NE,North East,bun,trousers,supper,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,different,same,same,c,b
+male,18,< 20,1996,-4.664667968449435,50.395140610180405,PL22,PL,South West,"bun, roll",trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,d,d
+female,19,< 20,1996,-2.04955117638729,53.549015036317584,OL4,OL,North West,muffin,NA,tea,rhyme,don't rhyme,rhyme,don't rhyme,rhyme,same,same,different,b,b
+male,65,61 to 80,1949,-2.2167307683446698,53.40609469390853,M20,M,North West,barm,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,b,b
+female,17,< 20,2000,-1.6124415860993881,53.67275276669433,WF12,WF,Yorkshire and The Humber,"bun, roll",trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,different,same,d,d
+male,62,61 to 80,1952,-1.7415626463275877,53.54752721228974,HD9,HD,Yorkshire and The Humber,tea cake,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,b,b
+male,20,< 20,1994,-2.1103153253770586,55.70325861635614,TD15,TD,North East,roll,trousers,tea,don't rhyme,don't rhyme,don't rhyme,rhyme,don't rhyme,different,same,same,c,c
+female,18,< 20,1996,-1.1305126752522252,52.9744293661572,NG3,NG,East Midlands,"bun, cob, roll",trousers,dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,d
+male,18,< 20,1996,-2.0447927425676546,52.388052917472216,B61,B,West Midlands,"bun, cob, roll",trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,b,b
+female,20,< 20,1996,-0.7213147646877972,52.36395974939377,NN14,NN,East Midlands,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,b,d
+female,47,41 to 60,1967,0.8861092314771318,51.95747780144886,CO4,CO,East of England,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,e,e
+female,19,< 20,1995,-2.329719039157203,53.6416844580004,BL0,BL,North West,muffin,trousers,tea,rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,a,c
+male,36,21 to 40,1978,-2.6775367519613575,53.145983805158814,CW6,CW,North West,bap,trousers,dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,d
+male,22,21 to 40,1993,-2.3137546327629575,53.70200545807423,BB4,BB,North West,bap,NA,dinner,rhyme,rhyme,rhyme,don't rhyme,rhyme,same,same,different,a,b
+female,31,21 to 40,1984,-1.1868273669095502,53.504120805597715,DN4,DN,Yorkshire and The Humber,bun,NA,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,b,b
+male,54,41 to 60,1960,-1.295589656485409,52.329750086732915,CV22,CV,West Midlands,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,a,c
+female,76,61 to 80,1938,-1.9242587377064202,53.38746335717837,SK22,SK,East Midlands,muffin,trousers,tea,rhyme,rhyme,rhyme,rhyme,don't rhyme,different,different,same,b,b
+female,20,< 20,1993,-2.3042339424516105,53.64097715193354,BL9,BL,North West,muffin,"pants, trousers",dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,b,d
+female,25,21 to 40,1989,-1.3812639542187988,53.32966520633532,S20,S,Yorkshire and The Humber,bread cake,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,d,d
+male,20,< 20,1994,-1.9093898211151565,51.12961656904329,SP3,SP,South West,"bun, roll",trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,b
+female,67,61 to 80,1948,-2.363119775768425,53.766289023135585,BB5,BB,North West,bap,NA,tea,rhyme,rhyme,rhyme,don't rhyme,rhyme,different,different,different,b,b
+male,19,< 20,1998,-0.44968101455499915,53.71606995423806,HU13,HU,Yorkshire and The Humber,"bap, bun, roll",trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,b
+male,18,< 20,1996,-0.4030339189979282,50.8170654953284,BN11,BN,South East,bun,"pants, trousers",dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,d,c
+female,53,41 to 60,1961,-1.5651856835890634,54.922332047994075,NE9,NE,North East,"bap, bun, roll, tea cake",trousers,dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,d,d
+male,26,21 to 40,1988,-0.32188071404280894,51.461961445969095,TW1,TW,London,bun,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,a,a
+female,61,61 to 80,1953,-1.2864853822326676,50.90216638131973,SO30,SO,South East,"bun, muffin",trousers,tea,don't rhyme,don't rhyme,rhyme,rhyme,don't rhyme,same,same,different,a,b
+female,87,> 80,1927,-1.5229256665036957,52.89182031590252,DE23,DE,East Midlands,cob,trousers,dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,b,b
+female,56,41 to 60,1958,-2.184715426651846,53.51230691149911,M40,M,North West,muffin,trousers,dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,b
+female,18,< 20,1996,-3.38063101539681,54.57321970220882,CA14,CA,North West,tea cake,"pants, trousers",dinner,don't rhyme,don't rhyme,rhyme,rhyme,don't rhyme,different,same,same,c,c
+male,66,61 to 80,1948,-2.478986093407724,53.49255947914331,WN7,WN,North West,barm,trousers,dinner,rhyme,don't rhyme,rhyme,rhyme,rhyme,different,different,same,c,c
+female,18,< 20,1996,-3.465291346972803,54.654058569611536,CA14,CA,North West,"bap, roll, tea cake",pants,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,a,c
+female,70,61 to 80,1944,-2.549545810341783,53.211640553629856,CW7,CW,North West,bap,trousers,tea,rhyme,rhyme,rhyme,rhyme,don't rhyme,same,same,same,b,b
+male,29,21 to 40,1989,-2.481477979581842,53.457050593707116,WA3,WA,North West,barm,pants,"dinner, tea",rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,a
+female,18,< 20,1996,-6.487565512761362,54.38467676312644,BT62,BT,Northern Ireland,bap,trousers,dinner,rhyme,don't rhyme,don't rhyme,rhyme,rhyme,different,different,different,c,a
+female,45,41 to 60,1969,-1.1577787178936512,54.569477900431565,TS6,TS,North East,bun,trousers,tea,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,c,b
+female,60,41 to 60,1954,-0.6305212121213001,51.49458067789297,SL4,SL,South East,bap,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,e,e
+male,45,41 to 60,1969,-2.795976264264397,56.80956200233251,DD9,DD,Scotland,roll,trousers,supper,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,e,e
+female,50,41 to 60,1964,-1.5045639944187574,53.77034481768036,LS10,LS,Yorkshire and The Humber,bread cake,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,different,same,d,d
+female,62,61 to 80,1952,-1.7314728263016628,55.00406268750783,NE5,NE,North East,bun,trousers,dinner,don't rhyme,rhyme,rhyme,rhyme,don't rhyme,different,different,same,d,d
+male,52,41 to 60,1965,-2.2801472261439764,53.52107093211171,M25,M,North West,barm,trousers,tea,rhyme,don't rhyme,rhyme,rhyme,don't rhyme,same,same,same,b,d
+male,19,< 20,1999,-1.0957231931592848,52.59872902774524,LE2,LE,East Midlands,cob,trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,a
+female,20,< 20,1993,-4.194766810576631,53.162327055474805,LL55,LL,Wales,bap,trousers,tea,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,c
+female,23,21 to 40,1995,-2.252162210158859,52.28444115702561,WR9,WR,West Midlands,roll,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,d
+male,19,< 20,1995,-4.1207056319755715,50.39339966041904,PL3,PL,South West,roll,trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,d,d
+female,19,< 20,1999,-1.465534627169156,53.540158553094464,S70,S,Yorkshire and The Humber,bread cake,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,different,same,a,a
+male,20,< 20,1994,-2.4892197333463884,56.76617228008203,DD10,DD,Scotland,roll,trousers,tea,don't rhyme,don't rhyme,don't rhyme,rhyme,don't rhyme,different,same,different,e,d
+female,22,21 to 40,1992,-0.22627806094684486,51.52565522383966,W10,W,London,"bap, bun, roll",trousers,"dinner, supper",don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,same,same,c,d
+male,19,< 20,1995,0.16812609777537632,51.475258745865204,DA8,DA,London,bap,trousers,dinner,don't rhyme,rhyme,rhyme,rhyme,don't rhyme,same,same,different,c,b
+male,45,41 to 60,1969,-0.06509836612358799,53.54899337076423,DN32,DN,Yorkshire and The Humber,bun,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,rhyme,same,same,same,c,c
+female,20,< 20,1997,-2.619572862798557,53.58928712394808,WN2,WN,North West,barm,pants,tea,rhyme,rhyme,rhyme,don't rhyme,rhyme,same,different,same,a,d
+male,19,< 20,1995,-2.1618484000940796,53.47523914715988,M11,M,North West,barm,pants,tea,rhyme,don't rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,a
+male,54,41 to 60,1960,-0.26085427754460866,52.58057911584494,PE3,PE,East of England,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,c,c
+male,32,21 to 40,1982,1.058037162030712,51.26544826122929,CT1,CT,South East,roll,trousers,tea,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,different,different,different,e,d
+female,19,< 20,1994,-2.222325252801561,53.60803616852054,OL10,OL,North West,muffin,pants,dinner,rhyme,don't rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,b
+male,35,21 to 40,1979,-1.0458435387927807,52.61674849175551,LE2,LE,East Midlands,bap,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,a,c
+male,13,< 20,2002,-2.4829721081038802,53.642206502468845,BL7,BL,North West,roll,NA,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,b,b
+female,22,21 to 40,1994,-2.370021202037839,52.5225311719941,WV15,WV,West Midlands,roll,trousers,tea,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,c
+male,21,21 to 40,1993,-0.1480905476634616,53.49135079900799,DN37,DN,Yorkshire and The Humber,bun,trousers,tea,rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,c,c
+male,18,< 20,1999,-2.5442259941671312,53.50109271375117,WN7,WN,North West,barm,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,a
+female,48,41 to 60,1971,-2.9381113236649745,53.44393757146304,L4,L,North West,barm,trousers,dinner,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,b,b
+female,54,41 to 60,1960,-3.0797531717632882,53.119423790734196,CH7,CH,Wales,roll,trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,d
+female,29,21 to 40,1985,-0.23545997304473032,51.12234064801912,RH11,RH,South East,bap,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,d,a
+female,33,21 to 40,1981,-1.7343823753570158,53.83083858513726,BD10,BD,Yorkshire and The Humber,bap,pants,tea,rhyme,rhyme,don't rhyme,rhyme,don't rhyme,same,different,different,c,b
+male,23,21 to 40,1991,-1.5050034123175142,55.04512976392368,NE25,NE,North East,bun,pants,dinner,don't rhyme,rhyme,rhyme,rhyme,don't rhyme,same,same,same,c,d
+female,21,21 to 40,1995,-2.039224852393504,52.76124800510865,ST17,ST,West Midlands,"bap, bun, roll",trousers,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,different,different,a,b
+male,81,> 80,1933,-1.5662405562579274,53.80187985405268,LS3,LS,Yorkshire and The Humber,roll,pants,supper,rhyme,rhyme,rhyme,rhyme,rhyme,same,different,same,a,c
+male,15,< 20,1998,-2.7732933500221355,53.74865233953339,PR1,PR,North West,bun,pants,tea,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,different,a,b
+female,19,< 20,1998,-0.8805283521524678,51.700198000292424,OX39,OX,South East,roll,trousers,dinner,don't rhyme,rhyme,rhyme,rhyme,don't rhyme,same,same,same,b,b
+female,20,< 20,1995,-1.6401966808059263,53.80261742548641,LS13,LS,Yorkshire and The Humber,"bap, bun",NA,tea,rhyme,don't rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,a,c
+female,21,21 to 40,1992,-0.15812713861945296,50.86652899773855,BN1,BN,South East,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,c,c
+female,28,21 to 40,1989,-1.6992315793572876,53.64809371020283,HD5,HD,Yorkshire and The Humber,tea cake,pants,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,different,different,same,a,b
+female,22,21 to 40,1995,-2.1359133637727594,53.56950337017898,OL2,OL,North West,muffin,trousers,tea,rhyme,don't rhyme,rhyme,don't rhyme,don't rhyme,different,different,different,a,b
+female,38,21 to 40,1981,-0.6403517832099522,51.62545874693955,HP9,HP,South East,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,c,c
+female,20,< 20,1994,-5.659848715764992,50.16156940536837,TR19,TR,South West,roll,trousers,dinner,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,c
+male,72,61 to 80,1943,-0.23835736657548437,51.51486838757625,W12,W,London,roll,NA,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,d,b
+female,43,41 to 60,1973,-1.5216348748226556,53.98811294859609,HG2,HG,Yorkshire and The Humber,bun,trousers,tea,don't rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,c,d
+male,43,41 to 60,1973,-2.2538339098123683,53.46835315154782,M15,M,North West,barm,pants,tea,rhyme,rhyme,rhyme,don't rhyme,don't rhyme,same,same,same,a,a
+female,70,61 to 80,1948,-2.6025598820859353,51.859522434464544,HR9,HR,West Midlands,bap,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,different,b,b
+female,74,61 to 80,1945,-4.250703979069044,55.844442056706164,G5,G,Scotland,roll,trousers,dinner,don't rhyme,don't rhyme,don't rhyme,rhyme,don't rhyme,different,same,different,d,e
+male,18,< 20,1996,-1.0774313120899273,51.554293150287954,OX10,OX,South East,roll,trousers,dinner,don't rhyme,rhyme,don't rhyme,don't rhyme,don't rhyme,same,same,same,d,d
