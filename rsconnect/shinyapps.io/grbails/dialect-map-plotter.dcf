@@ -5,10 +5,8 @@ account: grbails
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5774270
-bundleId: 5649469
+bundleId: 8368051
 url: https://grbails.shinyapps.io/dialect-map-plotter/
-when: 1646604529.34171
-lastSyncTime: 1646604529.34173
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: data_simp.csv|dataPrep.R|README.md
+ignoredFiles: dataPrep.R|README.md

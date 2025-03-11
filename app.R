@@ -1,5 +1,13 @@
 options(shiny.maxRequestSize=30*1024^2) #increase size limit of uploaded files to 30MB
 
+list_of_packages = c('tidyverse','DT', 
+                     'shiny', 'shinyjs', 'shinyWidgets',
+                     'sf', 'spdep', 'leaflet', 'leaflet.providers',
+                     'scales', 'RColorBrewer', 'viridis')
+
+lapply(list_of_packages, 
+       function(x) if(!require(x,character.only = TRUE)) install.packages(x))
+
 #general packages
 library(tidyverse)
 library(DT)
@@ -8,10 +16,8 @@ library(shiny)
 library(shinyjs)
 library(shinyWidgets)
 #mapping packages
-library(rgdal)
 library(sf)
 library(spdep)
-#library(rgeos)
 library(leaflet)
 library(leaflet.providers)
 #data viz packages
@@ -20,24 +26,25 @@ library(RColorBrewer)
 library(viridis)
 
 #load in shapefiles for plotting
-uk.areas = readOGR(dsn="shapefiles", layer="Areas")
-uk.districts = readOGR(dsn="shapefiles", layer="Districts_small")
+uk.areas.sf = read_sf("shapefiles/Areas.shp")
 uk.districts.sf = read_sf("shapefiles/Districts_small.shp")
 
 #create centroids for hotspot analysis
 centroids <- uk.districts.sf %>%
+  st_make_valid() %>%
   st_centroid() %>%
   st_coordinates() %>%
   as.data.frame() %>%
   rename(centroid_long = X, centroid_lat = Y) %>%
-  mutate(name = uk.districts$name) %>%
+  mutate(name = uk.districts.sf$name) %>%
   dplyr::select(name, centroid_long, centroid_lat)
 
 #function for calculating % use of variant for choropleth maps
 calcVals <- function(data, location, variable, level) {
   #calculate number of responses by the location type of interest
   num_responses <- data %>%
-    filter(!is.na(!! variable) & !! variable != '') %>%
+    rename('var' = !! variable) %>%
+    filter(!is.na(var) & var != '') %>%
     group_by(!! location) %>%
     summarise(total = n())
   
@@ -394,12 +401,12 @@ server <- function(input, output) {
         filter(vartoplot %in% input$pointLvlSel)
     } else if (input$mapType == 'pc.area') {
       vals <- calcVals(tempData, quo(pc.area), input$varSel, input$lvlSel)
-      uk.areas@data <- left_join(uk.areas@data, vals)
-      uk.areas
+      uk.areas.sf <- left_join(uk.areas.sf, vals)
+      uk.areas.sf
     } else if (input$mapType == 'pc.district') {
       vals <- calcVals(tempData, quo(pc.district), input$varSel, input$lvlSel)
-      uk.districts@data <- left_join(uk.districts@data, vals)
-      uk.districts
+      uk.districts.sf <- left_join(uk.districts.sf, vals)
+      uk.districts.sf
     } else if (input$mapType == 'pc.district.getis') {
       vals <- calcVals(tempData, quo(pc.district), input$varSel, input$lvlSel) %>%
         filter(name %in% centroids$name)
@@ -408,8 +415,8 @@ server <- function(input, output) {
         mutate(value.raw = value) %>%
         mutate(value = localG(value, swm)) %>%
         interpolateMissing(30)
-      uk.districts@data <- left_join(uk.districts@data, vals)
-      uk.districts
+      uk.districts.sf <- left_join(uk.districts.sf, vals)
+      uk.districts.sf
     }
 
   })
